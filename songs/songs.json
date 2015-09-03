@@ -4,6 +4,7 @@
 		"artist": "Eric Clapton",
 		"artist": "Blues",
 		"url": "Eric_Clapton_-Autumn_Leaves.mp3",
+		"image": "images/clapton.jpg",
 		"rate": 0
 	},
 	"song": {
@@ -11,6 +12,7 @@
 		"artist": "Queen",
 		"artist": "Rock",
 		"url": "Queen_-_Somebody_To_Love.mp3",
+		"image": "images/queen.jpg",
 		"rate": 0
 	},
 	"song": {
@@ -18,6 +20,7 @@
 		"artist": "Scorpions",
 		"artist": "Rock",
 		"url": "Scorpions_-_Still_Loving_You.mp3",
+		"image": "images/scorpions.jpg",
 		"rate": 0
 	},
 	"song": {
@@ -25,6 +28,7 @@
 		"artist": "The Beatles",
 		"artist": "Pop",
 		"url": "The_Beatles_-_I_Want_To_Hold_your_Hand_HD.mp3",
+		"image": "images/the_beatles.jpg",
 		"rate": 0
 	}
 }
