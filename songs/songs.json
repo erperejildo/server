@@ -1,0 +1,30 @@
+{
+	"song": {
+		"title": "Autumn leaves",
+		"artist": "Eric Clapton",
+		"artist": "Blues",
+		"url": "Eric_Clapton_-Autumn_Leaves.mp3",
+		"rate": 0
+	},
+	"song": {
+		"title": "Somebody to love",
+		"artist": "Queen",
+		"artist": "Rock",
+		"url": "Queen_-_Somebody_To_Love.mp3",
+		"rate": 0
+	},
+	"song": {
+		"title": "Still loving you",
+		"artist": "Scorpions",
+		"artist": "Rock",
+		"url": "Scorpions_-_Still_Loving_You.mp3",
+		"rate": 0
+	},
+	"song": {
+		"title": "I want to hold your hand",
+		"artist": "The Beatles",
+		"artist": "Pop",
+		"url": "The_Beatles_-_I_Want_To_Hold_your_Hand_HD.mp3",
+		"rate": 0
+	}
+}
