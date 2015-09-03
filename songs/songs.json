@@ -1,5 +1,5 @@
-{
-	"song": {
+[
+	{
 		"title": "Autumn leaves",
 		"artist": "Eric Clapton",
 		"artist": "Blues",
@@ -7,7 +7,7 @@
 		"image": "images/clapton.jpg",
 		"rate": 0
 	},
-	"song": {
+	{
 		"title": "Somebody to love",
 		"artist": "Queen",
 		"artist": "Rock",
@@ -15,7 +15,7 @@
 		"image": "images/queen.jpg",
 		"rate": 0
 	},
-	"song": {
+	{
 		"title": "Still loving you",
 		"artist": "Scorpions",
 		"artist": "Rock",
@@ -23,7 +23,7 @@
 		"image": "images/scorpions.jpg",
 		"rate": 0
 	},
-	"song": {
+	{
 		"title": "I want to hold your hand",
 		"artist": "The Beatles",
 		"artist": "Pop",
@@ -31,4 +31,4 @@
 		"image": "images/the_beatles.jpg",
 		"rate": 0
 	}
-}
+]
