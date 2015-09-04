@@ -5,6 +5,7 @@
 		"genre": "Blues",
 		"url": "Eric_Clapton_-Autumn_Leaves.mp3",
 		"image": "images/clapton.jpg",
+		"duration": "5:42",
 		"rate": 0
 	},
 	{
@@ -13,6 +14,7 @@
 		"genre": "Rock",
 		"url": "Queen_-_Somebody_To_Love.mp3",
 		"image": "images/queen.jpg",
+		"duration": "5:09",
 		"rate": 0
 	},
 	{
@@ -21,6 +23,7 @@
 		"genre": "Rock",
 		"url": "Scorpions_-_Still_Loving_You.mp3",
 		"image": "images/scorpions.jpg",
+		"duration": "4:47",
 		"rate": 0
 	},
 	{
@@ -29,6 +32,7 @@
 		"artist": "Pop",
 		"url": "The_Beatles_-_I_Want_To_Hold_your_Hand_HD.mp3",
 		"image": "images/the_beatles.jpg",
+		"duration": "2:23",
 		"rate": 0
 	}
 ]
